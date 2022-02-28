@@ -1,2 +1,2 @@
 # BFF
-Sarah LeTarte best friend code
+Sarah best friend code
